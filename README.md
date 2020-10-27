@@ -7,7 +7,7 @@ Tecnologias:
  - C#
  - Windows Forms
 
-O sistema apresenta algumas funções simples, como alterar a cor do backgraund da aplicação,
+O sistema apresenta algumas funções simples, como alterar a cor do background da aplicação,
 adiconar e remover uma imagen e ajustar a imagem as dimensões da aplicação.
 
 ![imagen](https://github.com/Ramon-Goveia/Picture-Viewer---C-Windows-Forms/blob/main/set-color-bg.png)
