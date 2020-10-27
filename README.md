@@ -2,6 +2,8 @@
 
 Laboratório - Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
+Projeto de extensão das aulas práticas do curso tecnólogo em análise e desenvolvimento de sistemas.
+
 Tecnologias:
 
  - C#
